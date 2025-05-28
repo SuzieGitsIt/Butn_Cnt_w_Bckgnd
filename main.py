@@ -1,3 +1,7 @@
+# File:     Butn_Clk_Cnt_2023-03-30
+# Version:  0.0.01
+# Author:   Susan Haynes
+
 from enum import global_flag_repr
 from functools import partial
 
